@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/eventhive
+    username: eventhive
+    password: eventhive123
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
