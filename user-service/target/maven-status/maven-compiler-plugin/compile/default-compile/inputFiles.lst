@@ -1,0 +1,11 @@
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/UserServiceApplication.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/entity/User.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/dto/LoginRequest.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/security/JwtAuthFilter.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/controller/AuthController.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/dto/AuthResponse.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/config/SecurityConfig.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/repository/UserRepository.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/service/AuthService.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/dto/RegisterRequest.java
+/Users/ktpthara/EventHive/user-service/src/main/java/com/eventhive/user/security/JwtUtil.java

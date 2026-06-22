@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/eventhive
+    username: eventhive
+    password: eventhive123
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+
+jwt:
+  secret: eventhive-super-secret-key-that-is-at-least-256-bits-long-for-hs256
+  expiration: 86400000
